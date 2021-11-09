@@ -36,7 +36,7 @@
                                                     <tr>
                                                         <td>{{$promocion->id}}</td>
                                                         <td>{{$promocion->name}}</td>
-                                                        <td>{{$promocion->motivo}}</td>
+                                                        <td>{{$promocion->descripcion}}</td>
                                                         <td>{{$promocion->created_at}}</td>
                                                         <td class="td-actions text-right">
                                                             <a href="{{ route('promocions.show', $promocion->id) }}" class="btn btn-info"><i class="material-icons">person</i></a>

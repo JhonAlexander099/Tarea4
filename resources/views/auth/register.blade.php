@@ -9,7 +9,7 @@
 
                     <div class="card card-login card-hidden mb-3">
                         <div class="card-header card-header-primary text-center">
-                            <h4 class="card-title"><strong>{{ __('Register') }}</strong></h4>
+                            <h4 class="card-title"><strong>{{ __('Registrarse') }}</strong></h4>
                             <div class="social-line">
                                 <a href="#pablo" class="btn btn-just-icon btn-link btn-white">
                                     <i class="fa fa-facebook-square"></i>
@@ -121,7 +121,7 @@
                         </div>
                         <div class="card-footer justify-content-center">
                             <button type="submit"
-                                    class="btn btn-primary btn-link btn-lg">{{ __('Create account') }}</button>
+                                    class="btn btn-primary btn-link btn-lg">{{ __('Crear cuenta') }}</button>
                         </div>
                     </div>
                 </form>
