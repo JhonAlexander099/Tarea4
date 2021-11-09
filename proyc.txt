@@ -1,0 +1,5 @@
+Solucionar errores
+-------------------
+Designar quien sera administridar y usuario
+Implementar anuncios personalizados para los usuarios
+Listar los reclamos/quejas por orden de importancia
